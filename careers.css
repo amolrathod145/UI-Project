@@ -1,0 +1,66 @@
+.careers-mian {
+  height: 100vh;
+  border: 2px solid red;
+  justify-content: space-around;
+  align-items: center;
+  background-color: black;
+}
+.careers-sub {
+  display: flex;
+  margin: 10%;
+  height: 60%;
+  width: 80%;
+  justify-content: space-around;
+  align-items: center;
+  background-color: white;
+}
+.careers-heading {
+  padding: 100px;
+}
+.careers-para {
+}
+.careers-heading-h1 {
+  /* padding: 30px; */
+  font-size: 50px;
+}
+.careers-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.careers-development {
+  /* padding: 30px 50px; */
+  height: 40px;
+  width: 300px;
+  margin: 10px;
+  border: 2px solid rgb(219, 216, 221);
+  justify-content: space-around;
+  /* align-items: center; */
+  border-radius: 15px;
+}
+.careers-desing {
+  /* padding: 30px 50px; */
+  height: 40px;
+  width: 300px;
+  border-radius: 15px;
+  margin: 10px;
+  border: 2px solid rgb(219, 216, 221);
+  justify-content: space-around;
+  /* align-items: center; */
+}
+.careers-optimazation {
+  /* padding: 30px 50px; */
+  height: 40px;
+  width: 300px;
+  margin: 10px;
+  border-radius: 15px;
+  border: 2px solid rgb(219, 216, 221);
+  justify-content: space-around;
+  /* align-items: center; */
+}
+.develop {
+  display: flex;
+  padding: 10px;
+  justify-content: space-evenly;
+}

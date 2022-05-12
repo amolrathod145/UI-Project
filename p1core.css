@@ -1,0 +1,35 @@
+.core {
+  width: 80%;
+  margin: auto;
+  margin-top: 10%;
+  display: flex;
+  /* flex-wrap: wrap; */
+}
+.core-img {
+  border-radius: 2%;
+}
+.core-fet {
+  margin: 5px 40px;
+}
+.core-heading {
+  font-size: xx-large;
+}
+.core-icon {
+  font-size: 50px;
+  display: flex;
+  justify-content: space-around;
+}
+.cicon {
+  background-color: white;
+  padding: 30px;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.c-btn {
+  background-color: black;
+  color: wheat;
+}
+.core-icon {
+  color: rgb(165, 41, 41);
+}

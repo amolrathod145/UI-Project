@@ -1,0 +1,26 @@
+.our-goal-main {
+  height: 75vh;
+  /* border: 2px solid red; */
+}
+.our-goal-sub {
+  /* border: 2px solid red; */
+  background-color: white;
+  padding: 100px;
+}
+.goal-icon {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 39px;
+}
+/* .goal-icon-2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 39px;
+} */
+.bi-check2 {
+  background-color: whitesmoke;
+  padding: 10px;
+  border-radius: 50%;
+}

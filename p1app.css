@@ -1,0 +1,43 @@
+.app-main {
+  height: 100vh;
+  /* border: 2px solid red; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.app-sub {
+  height: 80%;
+  background-color: white;
+  width: 80%;
+  /* border: 2px solid red; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.app-heading {
+  /* border: 2px solid red; */
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.app-para {
+  margin-left: 50px;
+  display: flex;
+  /* justify-content: center; */
+  /* align-items: center; */
+}
+.app-heading-h1 {
+  margin-left: 50px;
+  font-size: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.app-img {
+  height: 100%;
+  display: flex;
+  /* position: absolute; */
+}
+.app-img1 {
+  height: 100%;
+}

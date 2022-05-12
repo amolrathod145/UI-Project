@@ -1,0 +1,20 @@
+.share-work-details-main {
+  border: 2px solid red;
+  height: 100vh;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.share-work-details-sub {
+  height: 70%;
+  width: 80%;
+  background-color: tomato;
+  align-items: center;
+  justify-content: center;
+}
+.share-work-input {
+  height: 20px;
+  width: 10 0px;
+  display: flex;
+}

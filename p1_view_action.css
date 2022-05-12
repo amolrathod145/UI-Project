@@ -1,0 +1,21 @@
+.view-Action-main {
+  height: 100vh;
+  /* border: 2px solid red; */
+  justify-content: center;
+  align-items: center;
+  /* margin: 100px; */
+}
+.view-Action-video {
+  height: 50%;
+  width: 62.5%;
+  /* border: 2px solid red; */
+  justify-content: center;
+  align-items: cente;
+  margin-left: 300px;
+}
+.view-Action-Heading {
+  align-items: center;
+  justify-content: center;
+  margin-left: 650px;
+  margin-top: 70px;
+}
